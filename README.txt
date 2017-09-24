@@ -7,4 +7,4 @@ Mikeli Habash		300006570
 
 Product description:
 
-Web or mobile application that allows you to request money from friends or family and allows seamless money transfers with smaller fees than bank transfers.
+Web or mobile application that allows you to request money from friends or family and allows seamless money transfers with smaller fees than bank transfers. Also provides users with a social platform to organize the economic aspect of gatherings with friends.
