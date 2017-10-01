@@ -12,6 +12,10 @@ https://github.com/schowcloutier (Sacha Chow-Cloutier)
 https://github.com/SimonGaudert (Simon Gaudert)
 https://github.com/AIngram4 (Andrew Ingram)
 
+Organization link: https://github.com/CoverMeApp
+
+Repository link: https://github.com/CoverMeApp/coverme.github.io.git
+
 Product description:
 
 Web or mobile application that facilitates event organization. Wether you're throwing a Halloween party or planning a family trip, Coverme will allow: easy money management, schedule organization, fast communication between organizers and participants and much more.
