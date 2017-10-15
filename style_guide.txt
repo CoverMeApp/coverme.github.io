@@ -21,7 +21,7 @@ We are focusing on round flat icons to make them blend into the webpage
 
 Typography
 ==========
-We will be using Roboto from Google Fonts.
+We will be using Open Sans font.
 
 
 Links
