@@ -1,0 +1,63 @@
+
+
+.texts {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+}
+
+b {
+	font-size: 34px;
+}
+
+body {
+	font-family: 'Open', serif;
+	font-size: 20px;
+}
+
+p {
+
+	color: #878787;
+
+}
+
+.image1 {
+	position: relative;
+	width: 100%;
+}
+
+.image2 {
+	position: absolute;
+	width: 50%;
+	top:40px;
+	margin: 0 auto;
+	left:0;
+	right:0;
+
+}
+
+.img-cirlce {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	padding: 20px 45px 10px 45px;
+
+
+}
+
+div.center {
+	text-align: center;
+}
+
+div.item {
+    display: inline-block;
+    text-align: center;
+}
+
+.caption {
+	display: block;
+	font-weight: bold;
+	font-size: 24px;
+
+}
