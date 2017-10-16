@@ -43,9 +43,13 @@ p {
 
 }
 
+div.botmargin {
+	margin-bottom: 60px;
+}
+
 img.cirlce {
 	border-radius: 50%;
-	padding: 20px 45px 10px 45px;
+	padding: 20px 60px 10px 60px;
 	max-height: 250px;
 	max-width: 250px;
 	height: auto;
