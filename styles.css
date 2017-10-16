@@ -25,6 +25,8 @@ p {
 .image1 {
 	position: relative;
 	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 .image2 {
@@ -42,7 +44,6 @@ p {
 	width: 250px;
 	border-radius: 50%;
 	padding: 20px 45px 10px 45px;
-
 
 }
 
