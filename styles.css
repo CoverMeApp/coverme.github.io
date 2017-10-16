@@ -1,4 +1,5 @@
 
+* { padding: 0; margin: 0; }
 
 .texts {
     margin: auto;
@@ -19,14 +20,17 @@ body {
 p {
 
 	color: #878787;
+	padding: 40px;
+	margin-right: 25px;
+	margin-left:25px;
 
 }
 
 .image1 {
 	position: relative;
 	width: 100%;
-	margin-left: 0px;
-	margin-right: 0px;
+	padding: 0;
+	margin: 0;
 }
 
 .image2 {
@@ -42,16 +46,10 @@ p {
 img.cirlce {
 	border-radius: 50%;
 	padding: 20px 45px 10px 45px;
-
-}
-
-img.ratio{
-	display: block;
 	max-height: 250px;
 	max-width: 250px;
-	width: auto;
 	height: auto;
-
+	width: auto;
 
 }
 
