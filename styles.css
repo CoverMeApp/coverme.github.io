@@ -39,11 +39,19 @@ p {
 
 }
 
-.img-cirlce {
-	height: 250px;
-	width: 250px;
+img.cirlce {
 	border-radius: 50%;
 	padding: 20px 45px 10px 45px;
+
+}
+
+img.ratio{
+	display: block;
+	max-height: 250px;
+	max-width: 250px;
+	width: auto;
+	height: auto;
+
 
 }
 
