@@ -3,7 +3,6 @@
 .texts {
     margin: auto;
     width: 100%;
-    padding: 10px;
     text-align: center;
 }
 
@@ -30,14 +29,14 @@ p {
 
 }
 
-.image1 {
+img.image1 {
 	position: relative;
 	width: 100%;
 	padding: 0;
 	margin: 0;
 }
 
-.image2 {
+img.image2 {
 	position: absolute;
 	width: 50%;
 	top:40px;
@@ -45,6 +44,13 @@ p {
 	left:0;
 	right:0;
 
+}
+
+a.textimage {
+	position: absolute;
+	top: 100px;
+	right: 100px;
+	text-align: right;
 }
 
 div.botmargin {
@@ -58,8 +64,8 @@ div.topmargin {
 img.cirlce {
 	border-radius: 50%;
 	padding: 20px 60px 10px 60px;
-	max-height: 250px;
-	max-width: 250px;
+	max-height: 200px;
+	max-width: 200px;
 	height: auto;
 	width: auto;
 
@@ -68,6 +74,11 @@ img.cirlce {
 div.center {
 	text-align: center;
 }
+
+/*div.rightalign {
+	text-align: right;
+	margin-right: 300px;
+}*/
 
 div.item {
     display: inline-block;
