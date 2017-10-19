@@ -7,12 +7,13 @@
     text-align: center;
 }
 
-.Subtitles{
+.subtitles{
 	font-family:"Times New Roman"
 }
 
 b {
 	font-size: 34px;
+	marign-bottom: 34px;
 }
 
 body {
@@ -47,7 +48,11 @@ p {
 }
 
 div.botmargin {
-	margin-bottom: 60px;
+	margin-bottom: 100px;
+}
+
+div.topmargin {
+	margin-top: 34px;
 }
 
 img.cirlce {
