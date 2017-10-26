@@ -138,3 +138,9 @@ img.circle {
     font-size: 24px;
     letter-spacing: 5px;
 }
+
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
