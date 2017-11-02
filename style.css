@@ -9,7 +9,7 @@ body, html {
 /* the parallax effect */
 .parallax-1, .parallax-2, .parallax-3, .parallax-4, .parallax-5 {
     position: relative;
-    opacity: 0.70;
+    opacity: 1;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ body, html {
 }
   
 .parallax-3 {
-    background-image: url("images/travel.png");
+    background-image: url("images/dinner.jpg");
     min-height: 100%;
 }
 
