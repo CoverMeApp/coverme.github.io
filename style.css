@@ -71,13 +71,13 @@ li a:hover {
 }
 
 .parallax-4 {
-    background-image: url('images/long_fire.jpg');
+    background-image: url('images/sparklers.png');
     background-position: 0% 60%;
     min-height: 100%;
 }
   
 .parallax-5 {
-    background-image: url("images/sunset.JPG");
+    background-image: url("images/bbq.JPG");
     background-position: left top;
     min-height: 100%;
 }
