@@ -37,17 +37,17 @@ li a:hover {
 /* the parallax effect */
 .parallax-1, .parallax-2, .parallax-3, .parallax-4, .parallax-5 {
     position: relative;
-    opacity: 1;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100%
+    min-height: 100%;
   
 }
 
 .parallax-1 {
     background-image: url("images/campfire.png");
+
 }
 
 .writing {
@@ -61,20 +61,24 @@ li a:hover {
 .parallax-2 {
     background-image: url("images/skiing.jpg");
     background-position: top;
+
 }
   
 .parallax-3 {
     background-image: url("images/dinner.jpg");
+
 }
 
 .parallax-4 {
     background-image: url('images/sparklers.png');
     background-position: 0% 60%;
+
 }
   
 .parallax-5 {
     background-image: url("images/bbq.JPG");
     background-position: left top;
+
 }
 
     
@@ -99,7 +103,7 @@ li a:hover {
 
 
 
-.block2 {
+.blockleft {
     position: absolute;
     left: 5%;
     top: 20%;
@@ -108,7 +112,7 @@ li a:hover {
     color: #000;
   }
   
-.block2 p {
+.blockleft p {
     background-color: #fff;
     color: #000;
     opacity: 0.90;
@@ -118,6 +122,24 @@ li a:hover {
     line-height: 25px;
   }
 
+.blockright {
+    position: absolute;
+    right: 5%;
+    top: 20%;
+    max-width: 45%;
+    max-height: 45%;
+    color: #000;
+  }
+  
+.blockright p {
+    background-color: #fff;
+    color: #000;
+    opacity: 0.90;
+    padding: 20px;
+    text-align: justify;
+    letter-spacing: 2px;
+    line-height: 25px;
+  }
 
 .caption {
   position: absolute;
@@ -129,7 +151,7 @@ li a:hover {
 }
 
 .caption span.titles {
-  background-color: #111;
+  background-color: rgb(0, 0, 0);
   opacity:0.90;
   color: #fff;
   padding: 18px;
