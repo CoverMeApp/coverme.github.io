@@ -6,6 +6,10 @@ body, html {
     color: #777;
 }
 
+::-webkit-scrollbar {
+display: none;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
