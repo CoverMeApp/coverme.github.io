@@ -7,8 +7,9 @@ body, html {
 }
 
 ::-webkit-scrollbar {
-display: none;
+    display: none;
 }
+
 
 ul {
     list-style-type: none;
@@ -16,7 +17,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #111;
-
 }
 
 li {
@@ -80,7 +80,7 @@ li a:hover {
 }
   
 .parallax-5 {
-    background-image: url("images/bbq.JPG");
+    background-image: url("images/bbq.jpg");
     background-position: left top;
 
 }
