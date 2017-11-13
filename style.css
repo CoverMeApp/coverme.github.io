@@ -70,10 +70,15 @@ li a:hover {
 
 }
 
+.parallax-3 {
+  max-height: 500px;
+}
+
 
 .parallax-4 {
     background-image: url('images/sparklers.png');
     background-position: 0% 60%;
+    max-height: 500px;
 
 }
   
