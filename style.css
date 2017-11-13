@@ -145,6 +145,27 @@ li a:hover {
     line-height: 25px;
   }
 
+.blockcenter {
+  position: absolute;
+  top: 50px;
+  left: 44%;
+  max-width: 45%;
+  max-height: 45%;
+  color: #000;
+
+}
+
+.blockcenter p {
+  background-color: #fff;
+  color: #000;
+  opacity: 0.90;
+  padding: 20px;
+  text-align: justify;
+  letter-spacing: 2px;
+  line-height: 25px;
+
+}
+
 .caption {
   position: absolute;
   left: 0;
