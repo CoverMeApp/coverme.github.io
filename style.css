@@ -10,6 +10,11 @@ body, html {
     display: none;
 }
 
+.bigger{
+  height: 30px;
+  width: 100%;
+}
+
 
 
 ul {
@@ -71,19 +76,19 @@ li a:hover {
 }
 
 .parallax-3 {
-  max-height: 500px;
+  max-height: 1000px;
 }
 
 
 .parallax-4 {
     background-image: url('images/sparklers.png');
     background-position: 0% 60%;
-    max-height: 500px;
+    height: 1000px;
 
 }
   
 .parallax-5 {
-  max-height: 300px;
+  max-height: 750px;
 }
 
     
@@ -152,11 +157,11 @@ li a:hover {
   }
 
 .blockcenter {
-  position: absolute;
-  top: 50px;
-  left: 44%;
-  max-width: 45%;
-  max-height: 45%;
+  position: relative;
+  top: 100px;
+  margin: auto;
+  max-width: 40%;
+  max-height: auto;
   color: #000;
 
 }
