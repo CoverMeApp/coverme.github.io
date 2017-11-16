@@ -245,6 +245,6 @@ img.circle {
 
 @media only screen and (max-device-width: 1024px) {
     .parallax-1, .parallax-2, .parallax-3, .parallax-4, .parallax-5 {
-        background-attachment: scroll;
+        /*background-attachment: scroll;*/
     }
 }
